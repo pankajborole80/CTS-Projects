@@ -12,6 +12,9 @@
         </div>
         <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        <p>
+            <asp:CheckBox ID="CheckBox1" runat="server" />
+        </p>
     </form>
 </body>
 </html>
